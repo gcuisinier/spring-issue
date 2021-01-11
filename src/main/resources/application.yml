@@ -1,0 +1,5 @@
+sample:
+  labels:
+    simple: value1
+    net.gcuisinier: value2
+    "net.gcuisinier/env": value3
